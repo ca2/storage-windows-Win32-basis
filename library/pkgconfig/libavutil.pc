@@ -1,11 +1,11 @@
-prefix=/c/archive/nodetime-windows/Win32/basis
+prefix=/x/third/output/ffmpeg-Win32-basis
 exec_prefix=${prefix}
-libdir=/c/archive/nodetime-windows/Win32/basis/lib
-includedir=/c/archive/nodetime-windows/Win32/basis/include
+libdir=/x/third/output/ffmpeg-Win32-basis/lib
+includedir=/x/third/output/ffmpeg-Win32-basis/include
 
 Name: libavutil
 Description: FFmpeg utility library
-Version: 56.22.100
+Version: 57.8.100
 Requires: 
 Requires.private: 
 Conflicts:
